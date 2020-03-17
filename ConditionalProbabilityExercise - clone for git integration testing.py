@@ -116,3 +116,4 @@ print((purchases[30] / 100000.0) / PF)
 
 # COMMAND ----------
 
+adding some changes
